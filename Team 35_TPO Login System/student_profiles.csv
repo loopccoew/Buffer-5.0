@@ -1,0 +1,2 @@
+name,email,phone,college,degree,branch,year,project1_name,project1_desc,project2_name,project2_desc,programming_languages,frameworks,experience,activity1,activity2,cv_link,linkedin_profile,github_profile
+sgt,s@gmail.com,1234567890,cummins,b.tech,entc,sy,a,b,c,d,e,f,g,h,,http://localhost:8501/,http://localhost:8501/,http://localhost:8501/
