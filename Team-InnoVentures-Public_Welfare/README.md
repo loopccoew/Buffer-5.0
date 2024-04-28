@@ -4,6 +4,9 @@ https://docs.google.com/document/d/13fDdvaYV4chNfm4ydx2eAnw_n2-7c538/edit
 
 https://docs.google.com/document/d/18XLmNvQ0Q-_lGuWZAlia4IOC7pGUEyjp/edit?usp=drive_link&ouid=107490932932545784517&rtpof=true&sd=true
 
+Video:
+
+https://drive.google.com/file/d/1kqze3bF-PkZUe_rE1jpcvpQ3eR4N19lg/view?usp=drive_link
 
 Team Members:
 
