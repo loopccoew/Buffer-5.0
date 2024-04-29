@@ -1,9 +1,15 @@
 # Buffer-5.0
-Buffer is a Data Structures and Algorithms Project Series, in which students can participate as mentees in teams of 2-4. Under Buffer 5.0, the themes on which students can create a project are: 
+"CampusConnections"
+Description-The code implements a Campus Connect system featuring user signup/login, blog creation/viewing, study material management, and a lost/found item reporting system. It uses Java with MySQL integration for data storage and retrieval. User interactions are facilitated through a menu-driven interface. Key functionalities include user authentication, database operations for blogs/study materials, and lost/found item reporting. The code emphasizes modularity with classes like User, Study, Blog, LostAnd
+FoundDatabase, and ReportFoundLost, ensuring organized data handling and user interaction within a structured system.
 
-1. Public Welfare
-2. Tourism
-3. College level applications
-4. Custom Data structure
+video :-https://drive.google.com/drive/folders/15ol_cfHb1ujR3iOTfYyL8TKerspKLCg_?usp=sharing
 
-This repository is created for all the teams to be able to upload their final project source code. While submitting, note that all the submission guidelines given are followed, and all the files are named appropiately. Also ensure that your README file contains the links of the progress reports and the drive link containing the video of the project.
+report :-https://docs.google.com/document/d/1615lt4ud2GY_mpFit8kS88lJMHdNCTmQWRFyzF_gUWQ/edit?usp=drivesdk
+https://docs.google.com/document/d/1I8RW01lIlRuivmtHTT0ADh_6g4pwe1gA8VIvDQJWGRE/edit?usp=sharing
+
+Team Members(First year):-
+1.Mukta Chaudhari
+2.Arya Davare
+3.Manasvi Dhengre
+4.Nishtha Shah
