@@ -9,10 +9,10 @@ misdiagnosis and ensure patient’s safety. So we have decided to work on an eff
 aiding users in seeking appropriate medical advice and treatment.
 
 Link to the report 1: 
-[Report 1](file:///C:/Users/HP.DESKTOP-JHVAMD7/Desktop/Loop/Buffer-5.0/FY-18-SymptoScan/Report%201.pdf)
+[Report 1](https://drive.google.com/file/d/1AIOOhQ24EjWcg8u__LmD_VpFrTgfTA3m/view?usp=sharing)
 
 Link to report 2: 
-[Report 2](file:///C:/Users/HP.DESKTOP-JHVAMD7/Desktop/Loop/Buffer-5.0/FY-18-SymptoScan/Report%202.pdf)
+[Report 2](https://drive.google.com/file/d/1ytTMPMs33q-3In3rIVaPlyTPBGEVRz3E/view?usp=sharing)
 
 Link to video:
 [Video](https://drive.google.com/drive/u/0/folders/1GiRz2TK2ec12oP3bzmf9sx6O9PPfwRNE)
