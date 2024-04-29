@@ -1,4 +1,6 @@
 PROJECT NAME: SMART WASTE MANAGEMENT SYSTEM
+
+
 OBJECTIVES:Bin Management: Bin Management: Providing a platform for users to input information about waste bins, including their unique IDs, current fill levels, and the type of waste they contain. This allows for the systematic organization and tracking of waste bins within the system.
 Connection Management: Enabling users to define connections between waste bins, specifying the distance between them. This feature facilitates the creation of a network of interconnected bins, which can be utilized for route planning and optimization during waste collection processes.
 Fill Level Tracking: Tracking the fill level of each waste bin and allowing users to update this information as bins are filled or emptied. This real-time monitoring capability ensures that waste collection efforts are directed towards bins that require immediate attention, thereby optimizing resource utilization and reducing operational costs.
