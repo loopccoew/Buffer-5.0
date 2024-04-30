@@ -14,7 +14,7 @@ Reasoning: Hash maps offer efficient lookup and retrieval times, crucial for man
 Reasoning: Trees facilitate hierarchical organization, allowing for easy navigation and categorization of alumni based on various attributes.
 
 3. Student Database Side: Linked List (Linear)
-o	Reasoning: Linked lists provide flexibility for dynamic data manipulation, making them suitable for managing student profiles.
+Reasoning: Linked lists provide flexibility for dynamic data manipulation, making them suitable for managing student profiles.
 
 5. Post: Array List
 o	Reasoning: Arrays offer constant-time access to elements, making them suitable for storing and retrieving posts efficiently.
