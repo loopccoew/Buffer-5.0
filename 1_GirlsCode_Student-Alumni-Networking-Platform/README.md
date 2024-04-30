@@ -58,3 +58,7 @@ We have thoughtfully selected data structures based on their dynamic nature, sui
 
 ## Video Link
 https://drive.google.com/file/d/1sQBRx-wUQcFDqvPIzOMW5kWbjUgF3jW-/view?usp=drivesdk
+
+## Reports
+Report 1 - https://drive.google.com/file/d/10DFIw_kwLeYXEZvd78Gp-KF0qB2Vfw7N/view?usp=sharing
+Report 2 - https://drive.google.com/file/d/10I29qFO_DuPgPYhM0nmEbbzyacxRiOB-/view?usp=sharing
