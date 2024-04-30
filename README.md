@@ -1,5 +1,5 @@
 # Buffer-5.0
-team 5- solution seekers: 
+team 4- solution seekers: 
 To create an user friendly website through which aids provided by the government can reach the people in need. The website will display a list government schemes that apply to you according to your credentials. This is set to form a bridge between the government and general public to make all the official information accessible.
 
 Data Structures used:
