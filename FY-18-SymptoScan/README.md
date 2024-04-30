@@ -1,7 +1,7 @@
 FY_18_Public Welfare
 
 Team name: Tech Trio
-Team members: Arshia Singh,Nandini Pathak,Saumya Jain
+Team members: Arshia Singh,Nandini Manoj Pathak,Saumya Jain
 
 Problem Statement:
 Medical misdiagnosis is a global healthcare challenge with severe patient consequences. In India, the National Library of Medicine reports approximately 52 lakhs cases of medical negligence annually, with a 110% increase in recent years. Reports suggest that most of the time the skill or knowledge is not in question, instead it is lack of communication. One such case is illustrated by a team member's personal experience,where she faced a life-threatening situation due to an overdose of cold and cough medicine, resulting in an emergency ICU admission. This alarming incident demands the urgent need for an accurate and reliable medical diagnosis system to prevent such
