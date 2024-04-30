@@ -9,7 +9,7 @@ misdiagnosis and ensure patient’s safety. So we have decided to work on an eff
 
 Data Structures used: Trees
 
-Link to the report 1: 
+Link to report 1: 
 [Report 1](https://drive.google.com/file/d/1AIOOhQ24EjWcg8u__LmD_VpFrTgfTA3m/view?usp=sharing)
 
 Link to report 2: 
