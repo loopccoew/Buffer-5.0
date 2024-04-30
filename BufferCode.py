@@ -46,7 +46,7 @@ while True:
                         print("Successfully updated!")
                         print("-"*30)
                         break
-                    if op1==3:
+                    elif op1==3:
                         print("Exiting menu")
                         print("-"*30)
                         break
@@ -118,7 +118,7 @@ while True:
                     
                 break
         
-            if op2==2:
+            elif op2==2:
                 user_ID_new=input("\nEnter a user ID:\n")
                 for i in u_p:
                     if i==user_ID_new:
@@ -130,19 +130,21 @@ while True:
                 print("-"*30)
                 print("Account successfully created!")
             
-            if op2==3:
+            elif op2==3:
                 user_ID_ch=input("\nEnter a user ID:\n")
+                j=0
                 for i in u_p:
-                    if i!=user_ID_ch:
-                        print("-"*30)
-                        print("User ID does not exist")
-                    elif i==user_ID_ch:
+                    if i==user_ID_ch:
                         password_ch=input("Enter new password:\n")
                         u_p[i]=password_ch
                         print("-"*30)
                         print("Password successfully changed!")
-            
-            if op2==4:
+                        j=1
+                        
+                if j==0:
+                    print("User ID does not exist")
+                    
+            elif op2==4:
                 print("Exiting Menu")
                 print("-"*30)
                 break
