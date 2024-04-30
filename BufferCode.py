@@ -82,7 +82,11 @@ while True:
                                 gender=input("Enter gender\n").lower()
                                 nationality=input("Are you a citizen of india?\n").lower()
                                 
-                                if age<18 and gender=="male" or "m" and nationality=="yes":
+                                if nationality=="no":
+                                    print("Sorry not eligible for any schemes")
+                                    
+                                
+                                if age<18 and gender=="male" and nationality=="yes":
                                     print("-"*30)
                                     print("Sorry not eligible for any schemes")
                                 if age<18 and gender=="female" and nationality=="yes":
@@ -93,7 +97,7 @@ while True:
                                     dis=input("Are you disabled?\n")
                                     if dis=="yes":
                                         applied.append("Battery operatred TriCycle")
-                                    elif gender=="female" or "fem" or "f":
+                                    elif gender=="female":
                                         applied.append("Mahila samman savings certificate")
                                         category=input("Enter your category\n").upper()
                                         if category=="SC"or"ST":
