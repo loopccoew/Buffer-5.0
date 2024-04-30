@@ -4,6 +4,9 @@ Report 1 : https://docs.google.com/document/d/1Hr-PcZaEJkBstPJIHcLmxxmPvjghgDzS/
 
 report 2: https://docs.google.com/document/d/1AZOBMFDG9K43l1i3b5HaHywjmVF3y5Vs/edit?usp=sharing&ouid=109584937389394148034&rtpof=true&sd=true
 
+DOMAIN : PUBLIC WELFARE
+(A Java-based railway reservation platform project can be considered under the public welfare domain by ensuring accessibility, affordability, and efficiency for all users.)
+
 Project Title: GO-RAIL - Railway Reservation Platform "From the moment you step on board, we're here to elevate your train journey to new heights of happiness and satisfaction. Let's make every mile better together."
 
 Problem Statement: The traditional railway ticket booking process is often cumbersome, leading to inefficiencies and inconvenience for passengers. There is a need for a modern reservation platform that offers seamless booking experiences, real-time information updates, and improved resource utilization to enhance public welfare.
