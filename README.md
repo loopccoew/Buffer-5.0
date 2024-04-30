@@ -1,9 +1,13 @@
-# Buffer-5.0
-Buffer is a Data Structures and Algorithms Project Series, in which students can participate as mentees in teams of 2-4. Under Buffer 5.0, the themes on which students can create a project are: 
+"CRIME RECORDS MANAGEMENT SYSTEM" : helps law enforcement agencies manage crime records efficiently. This system allows easy recording, updating, and querying of crime data, enabling quick access for law enforcement personnel. The goal is to streamline the management of crime-related information and ensure swift retrieval of relevant data.
 
-1. Public Welfare
-2. Tourism
-3. College level applications
-4. Custom Data structure
+DATA STRUCTURES USED: Our project employs hashmaps to efficiently associate the names of individuals filing complaints with their respective crime IDs. Additionally, we utilize array lists to systematically catalog the names of all accused criminals. This approach enhances organizational structure and facilitates streamlined access to pertinent information within our system.
 
-This repository is created for all the teams to be able to upload their final project source code. While submitting, note that all the submission guidelines given are followed, and all the files are named appropiately. Also ensure that your README file contains the links of the progress reports and the drive link containing the video of the project.
+VIDEO:-https://drive.google.com/file/d/19p_we03qI4mCLwnn9eeYVgO0KT_7D3fe/view?usp=sharing
+
+REPORT:-1.https://docs.google.com/document/d/1agGHMSmN_kAvFhlLCyTPFAxwoRhdehxv/edit
+2.https://docs.google.com/document/d/1UL3AH9ZTwRNssZL4ARXyggvixET20rOT/edit
+
+TEAM MEMBERS(FIRST YEAR):- 1.Advika Khorgade 
+                           2.Arpita Deodikar 
+                           3.Jagruti Disle 
+                           4.Jui Kulkarni
