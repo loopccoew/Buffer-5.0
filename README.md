@@ -36,7 +36,7 @@ To develop a solution to the problem of current students lacking effective means
 
 ## Drive Links
 
-Drive link to reports- https://drive.google.com/drive/folders/16QytgTrUZU1-pWZAhtDUHEW6Rv-FrNG3
+Drive link to reports  - https://drive.google.com/drive/folders/16QytgTrUZU1-pWZAhtDUHEW6Rv-FrNG3
 
 
-Drive link to video-   https://drive.google.com/drive/folders/11TPVyBYEx6EUqWXIUXrv9hcdp7Z_PEts?usp=sharing
+Drive link to video    -   https://drive.google.com/drive/folders/11TPVyBYEx6EUqWXIUXrv9hcdp7Z_PEts?usp=sharing
