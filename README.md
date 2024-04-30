@@ -17,7 +17,7 @@ Reasoning: Trees facilitate hierarchical organization, allowing for easy navigat
 Reasoning: Linked lists provide flexibility for dynamic data manipulation, making them suitable for managing student profiles.
 
 5. Post: Array List
-o	Reasoning: Arrays offer constant-time access to elements, making them suitable for storing and retrieving posts efficiently.
+Reasoning: Arrays offer constant-time access to elements, making them suitable for storing and retrieving posts efficiently.
 
 ## Drive Links
 
