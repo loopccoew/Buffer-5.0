@@ -1,0 +1,7 @@
+Company,status,resume_selected,test_selected,interview_passed
+Microsoft,Applied,True,True,False
+Apple,Resume Selected,False,False,False
+Amazon,Interview Passed,False,False,False
+Adobe,Applied,True,True,False
+Flipkart,Applied,False,False,False
+Company,Not Applied,False,False,False

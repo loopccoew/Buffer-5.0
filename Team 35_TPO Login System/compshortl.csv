@@ -1,0 +1,22 @@
+Student ID,Student Name,Company,Status
+1,abc,Microsoft,"{'status': 'Applied', 'resume_selected': True, 'test_selected': True, 'interview_passed': Falses}"
+1,abc,Microsoft,Applied
+1,abc,Microsoft,Resume Selected
+1,abc,Microsoft,Test Selected
+1,abc,Microsoft,Interview Passed
+2,Tina Dabi,Apple,Rejected
+2,Tina Dabi,Apple,Applied
+2,Tina Dabi,Apple,Resume Selected
+2,Tina Dabih,Apple,Test Selected
+2,Tina Dabi,Apple,Interview Passed
+3,Striver,Amazon,Selected
+3,Striver,Amazon,Applied
+3,Striver,Amazon,Resume Selected
+3,Striver,Amazon,Test Selected
+3,Striver,Amazon,Interview Passed
+4,LuvBabbar,Adobe,Selected
+4,LuvBabbar,Adobe,Applied
+4,LuvBabbar,Adobe,Resume Selected
+4,LuvBabbar,Adobe,Test Selected
+4,LuvBabbar,Adobe,Interview Passed
+
