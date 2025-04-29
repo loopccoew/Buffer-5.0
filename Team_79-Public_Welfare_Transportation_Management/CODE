@@ -1,0 +1,117 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include <limits.h>
+
+#define MAX_VERTICES 100
+
+// Structure to represent an edge in the graph
+struct Edge {
+    int destination;
+    int weight;
+    struct Edge* next;
+};
+
+// Structure to represent a vertex in the graph
+struct Vertex {
+    struct Edge* head;
+};
+
+// Function to create a new edge
+struct Edge* createEdge(int destination, int weight) {
+    struct Edge* newEdge = (struct Edge*)malloc(sizeof(struct Edge));
+    newEdge->destination = destination;
+    newEdge->weight = weight;
+    newEdge->next = NULL;
+    return newEdge;
+}
+
+// Function to add an edge to the graph
+void addEdge(struct Vertex* graph, int source, int destination, int weight) {
+    struct Edge* newEdge = createEdge(destination, weight);
+    newEdge->next = graph[source].head;
+    graph[source].head = newEdge;
+}
+
+// Function to find the shortest route using Dijkstra's algorithm
+void dijkstra(struct Vertex* graph, int vertices, int start, int end) {
+    int* distance = (int*)malloc(vertices * sizeof(int));
+    bool* visited = (bool*)malloc(vertices * sizeof(bool));
+
+    // Initialize distance array and visited array
+    for (int i = 0; i < vertices; ++i) {
+        distance[i] = INT_MAX;
+        visited[i] = false;
+    }
+    distance[start] = 0;
+
+    // Dijkstra's algorithm
+    for (int count = 0; count < vertices - 1; ++count) {
+        int minDistance = INT_MAX, minIndex = -1;
+        for (int v = 0; v < vertices; ++v) {
+            if (!visited[v] && distance[v] < minDistance) {
+                minDistance = distance[v];
+                minIndex = v;
+            }
+        }
+
+        visited[minIndex] = true;
+
+        // Update distance value of the adjacent vertices of the picked vertex.
+        struct Edge* edge = graph[minIndex].head;
+        while (edge != NULL) {
+            int dest = edge->destination;
+            if (!visited[dest] && distance[minIndex] != INT_MAX && distance[minIndex] + edge->weight < distance[dest]) {
+                distance[dest] = distance[minIndex] + edge->weight;
+            }
+            edge = edge->next;
+        }
+    }
+
+    // Print the shortest distance
+    printf("Shortest distance between city %d and city %d is %d\n", start, end, distance[end]);
+
+    // Free allocated memory
+    free(distance);
+    free(visited);
+}
+
+int main() {
+    int vertices, edges;
+    printf("Enter the number of cities: ");
+    scanf("%d", &vertices);
+
+    struct Vertex* graph = (struct Vertex*)malloc(vertices * sizeof(struct Vertex));
+    for (int i = 0; i < vertices; ++i) {
+        graph[i].head = NULL;
+    }
+
+    printf("Enter the number of connections between cities: ");
+    scanf("%d", &edges);
+
+    printf("Enter connections and distances (source destination weight):\n");
+    for (int i = 0; i < edges; ++i) {
+        int source, destination, weight;
+        scanf("%d %d %d", &source, &destination, &weight);
+        addEdge(graph, source, destination, weight);
+    }
+
+    int start, end;
+    printf("Enter the city numbers for which you want to find the shortest distance: ");
+    scanf("%d %d", &start, &end);
+
+    dijkstra(graph, vertices, start, end);
+
+    // Free allocated memory
+    for (int i = 0; i < vertices; ++i) {
+        struct Edge* edge = graph[i].head;
+        while (edge != NULL) {
+            struct Edge* temp = edge;
+            edge = edge->next;
+            free(temp);
+        }
+    }
+    free(graph);
+
+    return 0;
+}           
